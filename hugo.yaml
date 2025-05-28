@@ -2,15 +2,6 @@ baseURL: https://example.org/
 languageCode: en-us
 title: STSOCB
 
-enableInlineShortcodes: true
-enableRobotsTXT: true
-buildDrafts: false
-buildFuture: false
-buildExpired: false
-enableEmoji: true
-pygmentsUseClasses: true
-mainsections: ["Chapters"]
-
 theme: ["PaperMod"]
 
 menu:
@@ -19,8 +10,16 @@ menu:
       name: Chapters
       url: /chapters/
       weight: 10
+
 params:
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  archive: true
+  disableThemeToggle: true
   env: production
   homeInfoParams:
-    Title: "Sailing the Sea of Coffee Beans"
+    Title: "Sailing the Seas of Coffee Beans"
     Content: 👋 Welcome to the story page of STSOCB! The story of Sailing the Sea of Coffee Beans follows two people—one trying to avoid, and the other trying to fix. Their journey is deeply tied to a relationship, and whether that relationship sails smoothly or not shapes the entire storyline.
