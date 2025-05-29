@@ -22,4 +22,6 @@ params:
   env: production
   homeInfoParams:
     Title: "Sailing the Seas of Coffee Beans"
-    Content: 👋 Welcome to the story page of STSOCB! The story of Sailing the Sea of Coffee Beans follows two people—one trying to avoid, and the other trying to fix. Their journey is deeply tied to a relationship, and whether that relationship sails smoothly or not shapes the entire storyline.
+    Content:
+      👋 Welcome to the story page of STSOCB! The story of Sailing the Sea of Coffee Beans follows two people—one trying to avoid, and the other trying to fix. Their journey is deeply tied to a relationship, and whether that relationship sails smoothly or not shapes the entire storyline.
+      --- Yours trully, ***CasualGrinder***.

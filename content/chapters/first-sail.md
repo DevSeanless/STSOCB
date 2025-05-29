@@ -4,7 +4,7 @@ draft: false
 title: "The First Sail"
 ---
 
-On a small island surrounded by the emerald sea of coffee beans, Seanless lived a life of contentment. In this paradise of solidarity, silence was disrupted by a single touch of the emerald sea—his arms dried into wood.
+On a small island surrounded by the emerald sea of coffee beans, Seanless lived a life of contentment. In this paradise of solidarity, silence was disrupted by a single touch of the emerald sea—his finger dried into wood.
 
 Thousands of books had been read in the island’s library. As he studied the curse, he found that it could only be cured by the spirit dwelling in the aquamarine sea. He was confused for a moment, for—by the moon—that sea was near yet far. Located beside the emerald sea, it was divided by a massive crater! Hence, he needed to brave all seven seas. There was only one person in history who had done that—it was Captain Kay!
 
@@ -16,7 +16,7 @@ The woman in front of him seemed carefree, sniffing her coffee. “Thanks to the
 
 Seanless, meanwhile, rolled his eyes and remembered something important. He took a breath and asked a second time, “Can I borrow your ship?”
 
-Seanless had been stuck on the island for years since his childhood. It was a must for the people who lived by the Emerald Sea to be artisans, for this had been a tradition—supplying the other six seas with coffee. Only the emerald sea could be refined into coffee, after all. This was the bread and butter for Seanless. And for some stupid reason, he had made a mistake. He accidentally touched the freshly harvested sea beans. Now he needed to take a break from being an artisan and take care of himself.
+Seanless had been stuck on the island for years since his childhood. It was a must for the people who lived by the Emerald Sea to be artisans, for this had been a tradition—supplying the other five seas with coffee. Only the emerald sea could be refined into coffee, after all. This was the bread and butter for Seanless. And for some stupid reason, he had made a mistake. He accidentally touched the freshly harvested sea beans. Now he needed to take a break from being an artisan and take care of himself.
 
 The lady’s brow curled. She smiled. “If you give me ten barrels of coffee, I can even guide you to the place you want to go.”
 
