@@ -1,7 +1,7 @@
 ---
 date: "2025-05-28T16:36:17+08:00"
 draft: false
-title: "The First Sail"
+title: "Chapter 1: The First Sail"
 ---
 
 On a small island surrounded by the emerald sea of coffee beans, Seanless lived a life of contentment. In this paradise of solidarity, silence was disrupted by a single touch of the emerald sea—his finger dried into wood.
