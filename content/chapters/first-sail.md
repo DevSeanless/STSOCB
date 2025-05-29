@@ -34,6 +34,6 @@ The pirate lady smiled, turned pale, and a cold sweat dropped down her cheek as 
 
 Seanless seemed reluctant and said, “No, and no coffee to you, Pirate…?”
 
-“Tsk… Alright! I’m Captain Kyle… The brave adventurer of the sea!” she answered.
+“Tsk… Alright! I’m Captain Kyla… The brave adventurer of the sea!” she answered.
 
-As the two settled their contract, Seanless closed the borders of the island, indicating that it was closed for traders. Meanwhile, Captain Kyle seemed unhappy with the decision, yet sailed her ship to the Topaz Sea of Coffee Beans.
+As the two settled their contract, Seanless closed the borders of the island, indicating that it was closed for traders. Meanwhile, Captain Kyla seemed unhappy with the decision, yet sailed her ship to the Topaz Sea of Coffee Beans.
