@@ -49,6 +49,6 @@ What truly caught his attention was the glowing light beneath the ship.
 
 Step by step, Seanless battled the raging wind while carrying the only hope he had left against the cursed fingers. He reached the edge of the front deck and his eyes widened---By the moon!---at the sight of the vast Topaz Sea Basin.
 
-“No wonder our hair stood up!” Seanless muttered. “If I’d traveled alone, I would’ve... already...”
+“No wonder our hair stood up!” Seanless muttered. “If I’d traveled alone, I would’ve seen my soul in the darkest depth of the crater”
 
 The Topaz Sea was blazing with electric energy---enough to fry any living creature.
