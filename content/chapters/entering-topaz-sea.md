@@ -9,7 +9,7 @@ The wind was calm, drifting through the sails of the wooden, purple ship. It was
 
 Seanless, meanwhile, was staring at his fingers---two wooden fingers, rather. Sweat poured down his cheek, for the curse had begun infecting his hand slowly. He attempted to wrap them with linen cloth.
 
-“Seanless, come out!” A knock and a voice echoed in his cabin. He stood up, hastily wrapping his hand, then reached the door and opened it.
+“Seanless, come out!” A knock and a voice echoed in his cabin. He stood up, hastily wrapping his hand, then reached for the door.
 
 “What is it, Captain Kyla? Do you need more help or something?” Seanless replied with a forcibly polite voice laced with annoyance. He then muttered under his breath, “I’ve been your slave since forever…”
 
