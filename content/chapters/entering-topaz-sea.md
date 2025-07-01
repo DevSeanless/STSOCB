@@ -14,6 +14,7 @@ Seanless, meanwhile, was staring at his fingers---two wooden fingers, rather. Sw
 “What is it, Captain Kyla? Do you need more help or something?” Seanless replied with a forcibly polite voice laced with annoyance. He then muttered under his breath, “I’ve been your slave since forever…”
 
 “Go fold the sails for me,” Kyla ordered. “We’ve just reached the Topaz Sea. After that, join me down in the hold.”
+
 “Aye… aye, Captain…” Seanless replied, rolling his eyes.
 
 Seanless was in a mood of distortion—he abhorred the life he had. Most of the time, he was tasked with chores: cleaning the captain’s cabin, brewing her coffee, and the cruelest task of all—guarding the ship like a madman through the night. He sometimes scratched his head, for he had noticed the Captain didn’t seem to sleep at all! He was in a constant battle with himself over whether to hand over the night watch to her. But he couldn’t. After all, he needed her more than ever now. The curse gnawed at him more than Captain Kyla ever did.
@@ -22,15 +23,13 @@ The sun began to tear apart—one half fell in the east while the other sank int
 
 After wrestling with the sails for a long while, Seanless suddenly sensed a change in the atmosphere. The hair on his skin stood on end. He descended to the hold as instructed. Down there, the air felt suffocating, and his hair began to rise and point in different directions.
 
-Meanwhile, Kyla was gripping two levers and pushing them forward. She was sweating and clearly exhausted. From the look of her, she was having a hard time. Her hair—like his—was flying in every direction. She noticed him.
+Meanwhile, Kyla was gripping two levers and pushing them forward. She was sweating and clearly exhausted. From the look of her, she was having a hard time. Her hair—like his—was flying in every direction. Then she noticed him.
 
-Seanless, however, ran toward her, tense and alarmed.
+Seanless ran toward her, tense and alarmed. “What’s happening, Captain Kyla?” Seanless asked, sweating like a cold water bottle.
 
 “Seanless, QUICK!” Kyla shouted. “Grab this lever and push it with me. Hurry!”
 
-“What’s happening, Kyla?” Seanless asked, sweating like a cold water bottle.
-
-“Just push it forward—no questions! Hurry!”
+Seanless meanwhile was confused, yet Kyla looked at him, “Just push it forward—no questions! Hurry!”
 
 Seanless grabbed the left lever. Kyla was pushing the right one, and together they shoved them forward with all their strength. The levers began to hinge and sway from the force. Suddenly, a tingling sensation surged through their bodies.
 “Don’t you dare stop pushing, Seanless!”
